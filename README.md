@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning svelte and Devops
-- 👯 I’m looking to collaborate on javascript based librarires
-- 🤔 I’m looking for help with pitch detection and instrument seperation using AI
+- 🌱 I’m currently learning Svelte and DevOps
+- 👯 I’m looking to collaborate on javascript-based libraries
+- 🤔 I’m looking for help with pitch detection and instrument separation using AI
 - 💬 Ask me about Backend/Javascript/React...
 - 📫 How to reach me: [Linked in](https://www.linkedin.com/in/vivek-sharma-a3872212b/) | [Twitter](https://twitter.com/vivsh1999)
 - 😄 Pronouns: He/Him
